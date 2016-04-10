@@ -8,3 +8,6 @@ Agenda for Session 1:
 * Git
 * GitHub
 * Programming Paradigm
+
+
+Changed by Session1 branch
