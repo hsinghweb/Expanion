@@ -1,0 +1,28 @@
+Session 1 - Setting the focus for the program
+
+The session introduces the Software Development Engineer (SDE) role in product based companies and the expectations.Also the aspirant will get to know the tools and techniques used by SDEs while developing new applications and features.
+
+Average duration of 14 days
+Session Deliverables
+Introduction and Greeting
+Expert gives a brief overview on development tools.
+Understand the aspiration of individual. Pick the area for developing the project.
+Brainstorm project ideas and zero-in on the one.
+Pick experts hints on writing good technical design document. Expert gives his/her perspective on the required building blocks for the live project
+Also expert gives the overview of source control repository like github or gitlab which helps aspirants to check in their design docs and code
+
+
+
+Agenda for Session 1:
+* Service based company vs. Product based company
+* Version Control System : wiki
+* Common features of VCS : Sync, Version 3,
+* Centralized vs. DVCS: Perforce (P4), RTC 
+* Code Review tools: Gerrit, Code Collaborator
+* Create Code school acc
+* Git: https://try.github.io/levels/1/challenges/1
+* Create GitHub acc
+* GitHub: https://guides.github.com/activities/hello-world/
+
+
+
