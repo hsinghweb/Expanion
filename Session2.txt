@@ -1,0 +1,48 @@
+Session 2 - Design review, Guidance for implementation
+
+Pre work: As an aspirant you are expected to bring well written design document to the session.In this session, aspirant get the review comments on the design document from experts. Discuss on the technologies and the implementation choices.
+Average duration of 14 days
+Session Deliverables
+
+    Expert reviews the technical design document and gives feedback.
+    Expert gives suggestion on how to proceed with implementation.
+    Experts? thoughts on Implementation choices ? Which programming language? How to structure your code?
+
+
+Agenda:
+* 5 Mins - Session1 tasks
+* 5 Mins - Aspiration
+* 5 Mins - Project Ideas
+
+Cache
+FIFO Cache, LRU Cache, LFU Cache
+
+TODO:
+Create design doc in MS Word
+
+* What is Cache (Software)
+* Interface/API of a Cache
+* What are Cache Eviction Algorithms
+* FIFO Cache
+* LRU Cache
+* LFU Cache
+* Implementation details for Cache type
+* Data structures for each Cache type
+* How to implement interface methods for each Cache type
+
+
+* Design Documentation way in SW Engineering
+* UML, Sequence Diagram, Flow Chart
+
+
+
+SinglyLinkedList
+DoublyLinkedList
+* Design Document, Code, Code Document, Unit Testing, Build, Usage
+
+* Programming Paradigm
+* Compiled language Vs. Interpreted language
+* Java Platform Independent language
+* Pure OOP Language
+* JDK vs JRE vs JVM
+* PATH and CLASSPATH
