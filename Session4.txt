@@ -1,0 +1,27 @@
+--------------------------------
+Learning from Cache project:
+--------------------------------
+* Cache and various cache types: FIFO, LRU, LFU
+* Java Languange
+* Eclipse
+* Java concepts: Inner Class, Generics, Collections
+* Data Structures: SinglyLinkedList, DoublyLinkedList
+
+----------------
+Agenda
+----------------
+* Use of a simple cache in Factorial program
+* Algorithm vs Data Structure
+* SinglyLinkedList
+* DoublyLinkedList
+* Generics
+* FIFO Cache
+* LRU Cache
+* LFU Cache
+
+* Interview Questions on LinkedList
+  * find the nth to last element of a singly linked list. (like 2nd last or 3rd last)
+  * find the middle element of a singly linked list.
+  * delete a node in the middle of a single linked list, given only access to that node.
+  * Find if linked list contains loop. If yes then implement an algorithm which returns node at the beginning of the loop.
+  * Find the merging node of 2 linked lists.

@@ -24,5 +24,5 @@ Agenda for Session 1:
 * Create GitHub acc
 * GitHub: https://guides.github.com/activities/hello-world/
 
-
+asda
 

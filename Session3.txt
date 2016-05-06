@@ -1,0 +1,15 @@
+Session 3 - Review the application and the code
+
+Pre work: As an aspirant you are expected to bring your first version of working application for review.In this session, your expert will do the first level review of your complete application and give the comments.
+Average duration of 14 days
+Session Deliverables
+
+    Expert will review the application ? This includes a. Detailed code review, b. UX review, c. Validating performance etc.
+    Expert will challenge you some of the design/implementation choices you have made. You are expected to defend if your choices are right or if not be open to improve them.
+    Expert will share their real industry experience in your project area.
+
+
+
+
+* Introduction to Java Programming Language
+* Eclipse Short Cuts
