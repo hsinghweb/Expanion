@@ -2,6 +2,7 @@
 Learning from Cache project:
 --------------------------------
 * Cache and various cache types: FIFO, LRU, LFU
+Enterprise cache: ECache, Hazelcast
 * Java Languange
 * Eclipse
 * Java concepts: Inner Class, Generics, Collections

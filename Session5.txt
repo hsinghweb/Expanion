@@ -1,0 +1,34 @@
+In this session, aspirant will have a 1-1 mock interview with expert and once the interview is complete, expert willwill provide his feedback and share details on preparing for the actual interviews in a product based company.
+Average duration of 14 days
+Session Deliverables
+
+    The project will be taken to closure, it will be deployed in live production or the app will be uploaded to app store
+    Expert conducts the Mock interview.
+    Shares the feedback on where the aspirant needs to improve before real interview.
+    
+    
+== Java coding tools ==
+* Unit test: JUnit, TestNG   
+* Build Tools: ant, maven, gradle 
+
+=== Java === 
+java the complete reference, 7th edition - herbert schildt.
+Head First Java Book by Bert Bates and Kathy Sierra
+Effective Java Book by Joshua Bloch
+Java Concurrency in Practice Book by Brian Goetz
+
+=== Interview === 
+Cracking the Coding Interview: Book by Gayle Laakmann McDowell
+
+===  Design Pattern === 
+Design Patterns: Elements of Reusable Object-Oriented Software Book by Erich Gamma, John Vlissides, Ralph Johnson, and Richard Helm
+Head First Design Patterns Book by Elisabeth Freeman
+
+===  WebSites ===  
+InterviewBit: https://www.interviewbit.com/
+Career Cup: https://www.careercup.com/
+geeks for geeks: www.geeksforgeeks.org/
+Stanford library for binary tree problems: http://cslibrary.stanford.edu/110/BinaryTrees.html
+
+
+
